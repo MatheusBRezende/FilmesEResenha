@@ -2,7 +2,7 @@ using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Attributes;
 using System.ComponentModel.DataAnnotations;
 
-namespace ATIVIDADESEMESTRAL.Models;
+namespace FILMESRESENHA.Models;
 
 public class Filme
 {

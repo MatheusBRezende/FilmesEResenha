@@ -1,6 +1,6 @@
 using MongoDB.Driver;
-using ATIVIDADESEMESTRAL.Models;
-namespace ATIVIDADESEMESTRAL.Repositories;
+using FILMESRESENHA.Models;
+namespace FILMESRESENHA.Repositories;
 
 public class ResenhaRepository : IResenhaRepository
 {
